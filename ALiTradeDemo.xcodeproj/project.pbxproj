@@ -13,6 +13,47 @@
 		1D1E16671F4D3B3000BACA6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16651F4D3B3000BACA6D /* Main.storyboard */; };
 		1D1E16691F4D3B3000BACA6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16681F4D3B3000BACA6D /* Assets.xcassets */; };
 		1D1E166C1F4D3B3000BACA6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E166A1F4D3B3000BACA6D /* LaunchScreen.storyboard */; };
+		1D1E16891F4D3B4900BACA6D /* AlibabaAuthExt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16741F4D3B4900BACA6D /* AlibabaAuthExt.framework */; };
+		1D1E168A1F4D3B4900BACA6D /* AlibabaAuthSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16751F4D3B4900BACA6D /* AlibabaAuthSDK.framework */; };
+		1D1E168B1F4D3B4900BACA6D /* AlibcLinkPartnerSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16761F4D3B4900BACA6D /* AlibcLinkPartnerSDK.framework */; };
+		1D1E168C1F4D3B4900BACA6D /* AlibcTradeBiz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16771F4D3B4900BACA6D /* AlibcTradeBiz.framework */; };
+		1D1E168D1F4D3B4900BACA6D /* AlibcTradeCommon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16781F4D3B4900BACA6D /* AlibcTradeCommon.framework */; };
+		1D1E168E1F4D3B4900BACA6D /* AlibcTradeSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16791F4D3B4900BACA6D /* AlibcTradeSDK.framework */; };
+		1D1E168F1F4D3B4900BACA6D /* AlipaySDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E167A1F4D3B4900BACA6D /* AlipaySDK.framework */; };
+		1D1E16901F4D3B4900BACA6D /* OpenMtopExt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E167B1F4D3B4900BACA6D /* OpenMtopExt.framework */; };
+		1D1E16911F4D3B4900BACA6D /* OpenMtopSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E167C1F4D3B4900BACA6D /* OpenMtopSDK.framework */; };
+		1D1E16921F4D3B4900BACA6D /* SecurityGuardSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E167D1F4D3B4900BACA6D /* SecurityGuardSDK.framework */; };
+		1D1E16931F4D3B4900BACA6D /* SGMain.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E167E1F4D3B4900BACA6D /* SGMain.framework */; };
+		1D1E16941F4D3B4900BACA6D /* SGSecurityBody.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E167F1F4D3B4900BACA6D /* SGSecurityBody.framework */; };
+		1D1E16951F4D3B4900BACA6D /* TUnionTradeSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16801F4D3B4900BACA6D /* TUnionTradeSDK.framework */; };
+		1D1E16971F4D3B4900BACA6D /* UTDID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16821F4D3B4900BACA6D /* UTDID.framework */; };
+		1D1E16981F4D3B4900BACA6D /* UTMini.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16831F4D3B4900BACA6D /* UTMini.framework */; };
+		1D1E16991F4D3B4900BACA6D /* AlibabaAuthSDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16851F4D3B4900BACA6D /* AlibabaAuthSDK.bundle */; };
+		1D1E169A1F4D3B4900BACA6D /* AlipaySDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16861F4D3B4900BACA6D /* AlipaySDK.bundle */; };
+		1D1E169B1F4D3B4900BACA6D /* ALPLinkPartnerSDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16871F4D3B4900BACA6D /* ALPLinkPartnerSDK.bundle */; };
+		1D1E169C1F4D3B4900BACA6D /* NBResource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16881F4D3B4900BACA6D /* NBResource.bundle */; };
+		1D1E169F1F4D3B7B00BACA6D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E169E1F4D3B7B00BACA6D /* SystemConfiguration.framework */; };
+		1D1E16A11F4D3B8B00BACA6D /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16A01F4D3B8B00BACA6D /* CoreTelephony.framework */; };
+		1D1E16A31F4D3B9700BACA6D /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16A21F4D3B9700BACA6D /* CFNetwork.framework */; };
+		1D1E16A51F4D3BA000BACA6D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16A41F4D3BA000BACA6D /* Security.framework */; };
+		1D1E16A71F4D3BA900BACA6D /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16A61F4D3BA900BACA6D /* libc++.tbd */; };
+		1D1E16A91F4D3BB100BACA6D /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16A81F4D3BB100BACA6D /* libz.tbd */; };
+		1D1E16AB1F4D3BBB00BACA6D /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16AA1F4D3BBB00BACA6D /* CoreMotion.framework */; };
+		1D1E16AF1F4D3D6000BACA6D /* MyAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16AE1F4D3D6000BACA6D /* MyAlertView.m */; };
+		1D1E16CB1F4D3D9200BACA6D /* SwitchEnvViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16B21F4D3D9200BACA6D /* SwitchEnvViewController.m */; };
+		1D1E16CD1F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16B71F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.m */; };
+		1D1E16CE1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16B91F4D3D9200BACA6D /* ALiTradeParamConfigViewController.m */; };
+		1D1E16CF1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16BA1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.storyboard */; };
+		1D1E16D01F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16BC1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.m */; };
+		1D1E16D11F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16BD1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.storyboard */; };
+		1D1E16D21F4D3D9200BACA6D /* ALiTradeSDKShareParam.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16BF1F4D3D9200BACA6D /* ALiTradeSDKShareParam.m */; };
+		1D1E16D31F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16C11F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.m */; };
+		1D1E16D41F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1E16C21F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.storyboard */; };
+		1D1E16D51F4D3D9200BACA6D /* ALiTradeTestData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16C41F4D3D9200BACA6D /* ALiTradeTestData.m */; };
+		1D1E16D61F4D3D9200BACA6D /* ALiTradeWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D1E16C61F4D3D9200BACA6D /* ALiTradeWebViewController.m */; };
+		1D1E16EF1F4D4FF100BACA6D /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D1E16EE1F4D4FF100BACA6D /* libsqlite3.tbd */; };
+		1DBF61EE1F4EB59000B7C9AF /* yw_1222.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1DBF61ED1F4EB59000B7C9AF /* yw_1222.jpg */; };
+		2E3385832309AB72002773E9 /* TradeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E3385822309AB72002773E9 /* TradeController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +67,57 @@
 		1D1E16681F4D3B3000BACA6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D1E166B1F4D3B3000BACA6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D1E166D1F4D3B3000BACA6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D1E16741F4D3B4900BACA6D /* AlibabaAuthExt.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlibabaAuthExt.framework; sourceTree = "<group>"; };
+		1D1E16751F4D3B4900BACA6D /* AlibabaAuthSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlibabaAuthSDK.framework; sourceTree = "<group>"; };
+		1D1E16761F4D3B4900BACA6D /* AlibcLinkPartnerSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlibcLinkPartnerSDK.framework; sourceTree = "<group>"; };
+		1D1E16771F4D3B4900BACA6D /* AlibcTradeBiz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlibcTradeBiz.framework; sourceTree = "<group>"; };
+		1D1E16781F4D3B4900BACA6D /* AlibcTradeCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlibcTradeCommon.framework; sourceTree = "<group>"; };
+		1D1E16791F4D3B4900BACA6D /* AlibcTradeSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlibcTradeSDK.framework; sourceTree = "<group>"; };
+		1D1E167A1F4D3B4900BACA6D /* AlipaySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AlipaySDK.framework; sourceTree = "<group>"; };
+		1D1E167B1F4D3B4900BACA6D /* OpenMtopExt.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OpenMtopExt.framework; sourceTree = "<group>"; };
+		1D1E167C1F4D3B4900BACA6D /* OpenMtopSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OpenMtopSDK.framework; sourceTree = "<group>"; };
+		1D1E167D1F4D3B4900BACA6D /* SecurityGuardSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SecurityGuardSDK.framework; sourceTree = "<group>"; };
+		1D1E167E1F4D3B4900BACA6D /* SGMain.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SGMain.framework; sourceTree = "<group>"; };
+		1D1E167F1F4D3B4900BACA6D /* SGSecurityBody.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SGSecurityBody.framework; sourceTree = "<group>"; };
+		1D1E16801F4D3B4900BACA6D /* TUnionTradeSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TUnionTradeSDK.framework; sourceTree = "<group>"; };
+		1D1E16821F4D3B4900BACA6D /* UTDID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UTDID.framework; sourceTree = "<group>"; };
+		1D1E16831F4D3B4900BACA6D /* UTMini.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UTMini.framework; sourceTree = "<group>"; };
+		1D1E16851F4D3B4900BACA6D /* AlibabaAuthSDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AlibabaAuthSDK.bundle; sourceTree = "<group>"; };
+		1D1E16861F4D3B4900BACA6D /* AlipaySDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AlipaySDK.bundle; sourceTree = "<group>"; };
+		1D1E16871F4D3B4900BACA6D /* ALPLinkPartnerSDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ALPLinkPartnerSDK.bundle; sourceTree = "<group>"; };
+		1D1E16881F4D3B4900BACA6D /* NBResource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NBResource.bundle; sourceTree = "<group>"; };
+		1D1E169E1F4D3B7B00BACA6D /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		1D1E16A01F4D3B8B00BACA6D /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		1D1E16A21F4D3B9700BACA6D /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		1D1E16A41F4D3BA000BACA6D /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		1D1E16A61F4D3BA900BACA6D /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		1D1E16A81F4D3BB100BACA6D /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		1D1E16AA1F4D3BBB00BACA6D /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		1D1E16AD1F4D3D6000BACA6D /* MyAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAlertView.h; sourceTree = "<group>"; };
+		1D1E16AE1F4D3D6000BACA6D /* MyAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAlertView.m; sourceTree = "<group>"; };
+		1D1E16B11F4D3D9200BACA6D /* SwitchEnvViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwitchEnvViewController.h; sourceTree = "<group>"; };
+		1D1E16B21F4D3D9200BACA6D /* SwitchEnvViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwitchEnvViewController.m; sourceTree = "<group>"; };
+		1D1E16B61F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeParamConfigTableCell.h; sourceTree = "<group>"; };
+		1D1E16B71F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeParamConfigTableCell.m; sourceTree = "<group>"; };
+		1D1E16B81F4D3D9200BACA6D /* ALiTradeParamConfigViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeParamConfigViewController.h; sourceTree = "<group>"; };
+		1D1E16B91F4D3D9200BACA6D /* ALiTradeParamConfigViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeParamConfigViewController.m; sourceTree = "<group>"; };
+		1D1E16BA1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ALiTradeParamConfigViewController.storyboard; sourceTree = "<group>"; };
+		1D1E16BB1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeSDKCongfigViewController.h; sourceTree = "<group>"; };
+		1D1E16BC1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeSDKCongfigViewController.m; sourceTree = "<group>"; };
+		1D1E16BD1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ALiTradeSDKCongfigViewController.storyboard; sourceTree = "<group>"; };
+		1D1E16BE1F4D3D9200BACA6D /* ALiTradeSDKShareParam.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeSDKShareParam.h; sourceTree = "<group>"; };
+		1D1E16BF1F4D3D9200BACA6D /* ALiTradeSDKShareParam.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeSDKShareParam.m; sourceTree = "<group>"; };
+		1D1E16C01F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeServiceAPIViewController.h; sourceTree = "<group>"; };
+		1D1E16C11F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeServiceAPIViewController.m; sourceTree = "<group>"; };
+		1D1E16C21F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ALiTradeServiceAPIViewController.storyboard; sourceTree = "<group>"; };
+		1D1E16C31F4D3D9200BACA6D /* ALiTradeTestData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeTestData.h; sourceTree = "<group>"; };
+		1D1E16C41F4D3D9200BACA6D /* ALiTradeTestData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeTestData.m; sourceTree = "<group>"; };
+		1D1E16C51F4D3D9200BACA6D /* ALiTradeWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALiTradeWebViewController.h; sourceTree = "<group>"; };
+		1D1E16C61F4D3D9200BACA6D /* ALiTradeWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALiTradeWebViewController.m; sourceTree = "<group>"; };
+		1D1E16EE1F4D4FF100BACA6D /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		1DBF61ED1F4EB59000B7C9AF /* yw_1222.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yw_1222.jpg; sourceTree = "<group>"; };
+		2E3385812309AB72002773E9 /* TradeController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TradeController.h; sourceTree = "<group>"; };
+		2E3385822309AB72002773E9 /* TradeController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TradeController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +125,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D1E16EF1F4D4FF100BACA6D /* libsqlite3.tbd in Frameworks */,
+				1D1E16AB1F4D3BBB00BACA6D /* CoreMotion.framework in Frameworks */,
+				1D1E16A91F4D3BB100BACA6D /* libz.tbd in Frameworks */,
+				1D1E16A71F4D3BA900BACA6D /* libc++.tbd in Frameworks */,
+				1D1E16A51F4D3BA000BACA6D /* Security.framework in Frameworks */,
+				1D1E16A31F4D3B9700BACA6D /* CFNetwork.framework in Frameworks */,
+				1D1E16A11F4D3B8B00BACA6D /* CoreTelephony.framework in Frameworks */,
+				1D1E169F1F4D3B7B00BACA6D /* SystemConfiguration.framework in Frameworks */,
+				1D1E168F1F4D3B4900BACA6D /* AlipaySDK.framework in Frameworks */,
+				1D1E168A1F4D3B4900BACA6D /* AlibabaAuthSDK.framework in Frameworks */,
+				1D1E16931F4D3B4900BACA6D /* SGMain.framework in Frameworks */,
+				1D1E16911F4D3B4900BACA6D /* OpenMtopSDK.framework in Frameworks */,
+				1D1E168B1F4D3B4900BACA6D /* AlibcLinkPartnerSDK.framework in Frameworks */,
+				1D1E16971F4D3B4900BACA6D /* UTDID.framework in Frameworks */,
+				1D1E16951F4D3B4900BACA6D /* TUnionTradeSDK.framework in Frameworks */,
+				1D1E16891F4D3B4900BACA6D /* AlibabaAuthExt.framework in Frameworks */,
+				1D1E16901F4D3B4900BACA6D /* OpenMtopExt.framework in Frameworks */,
+				1D1E168C1F4D3B4900BACA6D /* AlibcTradeBiz.framework in Frameworks */,
+				1D1E16941F4D3B4900BACA6D /* SGSecurityBody.framework in Frameworks */,
+				1D1E168E1F4D3B4900BACA6D /* AlibcTradeSDK.framework in Frameworks */,
+				1D1E168D1F4D3B4900BACA6D /* AlibcTradeCommon.framework in Frameworks */,
+				1D1E16921F4D3B4900BACA6D /* SecurityGuardSDK.framework in Frameworks */,
+				1D1E16981F4D3B4900BACA6D /* UTMini.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +159,7 @@
 			children = (
 				1D1E165B1F4D3B3000BACA6D /* ALiTradeDemo */,
 				1D1E165A1F4D3B3000BACA6D /* Products */,
+				1D1E169D1F4D3B7B00BACA6D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,10 +174,17 @@
 		1D1E165B1F4D3B3000BACA6D /* ALiTradeDemo */ = {
 			isa = PBXGroup;
 			children = (
+				1D1E16731F4D3B4900BACA6D /* Frameworks */,
+				1D1E16841F4D3B4900BACA6D /* Resources */,
+				1D1E16D91F4D3DB800BACA6D /* config */,
+				1D1E16AC1F4D3D6000BACA6D /* Util */,
+				1D1E16B01F4D3D9200BACA6D /* case */,
 				1D1E165F1F4D3B3000BACA6D /* AppDelegate.h */,
 				1D1E16601F4D3B3000BACA6D /* AppDelegate.m */,
 				1D1E16621F4D3B3000BACA6D /* ViewController.h */,
 				1D1E16631F4D3B3000BACA6D /* ViewController.m */,
+				2E3385812309AB72002773E9 /* TradeController.h */,
+				2E3385822309AB72002773E9 /* TradeController.m */,
 				1D1E16651F4D3B3000BACA6D /* Main.storyboard */,
 				1D1E16681F4D3B3000BACA6D /* Assets.xcassets */,
 				1D1E166A1F4D3B3000BACA6D /* LaunchScreen.storyboard */,
@@ -77,6 +200,105 @@
 				1D1E165D1F4D3B3000BACA6D /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1D1E16731F4D3B4900BACA6D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D1E16741F4D3B4900BACA6D /* AlibabaAuthExt.framework */,
+				1D1E16751F4D3B4900BACA6D /* AlibabaAuthSDK.framework */,
+				1D1E16761F4D3B4900BACA6D /* AlibcLinkPartnerSDK.framework */,
+				1D1E16771F4D3B4900BACA6D /* AlibcTradeBiz.framework */,
+				1D1E16781F4D3B4900BACA6D /* AlibcTradeCommon.framework */,
+				1D1E16791F4D3B4900BACA6D /* AlibcTradeSDK.framework */,
+				1D1E167A1F4D3B4900BACA6D /* AlipaySDK.framework */,
+				1D1E167B1F4D3B4900BACA6D /* OpenMtopExt.framework */,
+				1D1E167C1F4D3B4900BACA6D /* OpenMtopSDK.framework */,
+				1D1E167D1F4D3B4900BACA6D /* SecurityGuardSDK.framework */,
+				1D1E167E1F4D3B4900BACA6D /* SGMain.framework */,
+				1D1E167F1F4D3B4900BACA6D /* SGSecurityBody.framework */,
+				1D1E16801F4D3B4900BACA6D /* TUnionTradeSDK.framework */,
+				1D1E16821F4D3B4900BACA6D /* UTDID.framework */,
+				1D1E16831F4D3B4900BACA6D /* UTMini.framework */,
+			);
+			path = Frameworks;
+			sourceTree = "<group>";
+		};
+		1D1E16841F4D3B4900BACA6D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1D1E16851F4D3B4900BACA6D /* AlibabaAuthSDK.bundle */,
+				1D1E16861F4D3B4900BACA6D /* AlipaySDK.bundle */,
+				1D1E16871F4D3B4900BACA6D /* ALPLinkPartnerSDK.bundle */,
+				1D1E16881F4D3B4900BACA6D /* NBResource.bundle */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1D1E169D1F4D3B7B00BACA6D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1D1E16EE1F4D4FF100BACA6D /* libsqlite3.tbd */,
+				1D1E16AA1F4D3BBB00BACA6D /* CoreMotion.framework */,
+				1D1E16A81F4D3BB100BACA6D /* libz.tbd */,
+				1D1E16A61F4D3BA900BACA6D /* libc++.tbd */,
+				1D1E16A41F4D3BA000BACA6D /* Security.framework */,
+				1D1E16A21F4D3B9700BACA6D /* CFNetwork.framework */,
+				1D1E16A01F4D3B8B00BACA6D /* CoreTelephony.framework */,
+				1D1E169E1F4D3B7B00BACA6D /* SystemConfiguration.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1D1E16AC1F4D3D6000BACA6D /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				1D1E16AD1F4D3D6000BACA6D /* MyAlertView.h */,
+				1D1E16AE1F4D3D6000BACA6D /* MyAlertView.m */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
+		1D1E16B01F4D3D9200BACA6D /* case */ = {
+			isa = PBXGroup;
+			children = (
+				1D1E16B11F4D3D9200BACA6D /* SwitchEnvViewController.h */,
+				1D1E16B21F4D3D9200BACA6D /* SwitchEnvViewController.m */,
+				1D1E16B31F4D3D9200BACA6D /* trade */,
+			);
+			path = case;
+			sourceTree = "<group>";
+		};
+		1D1E16B31F4D3D9200BACA6D /* trade */ = {
+			isa = PBXGroup;
+			children = (
+				1D1E16B61F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.h */,
+				1D1E16B71F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.m */,
+				1D1E16B81F4D3D9200BACA6D /* ALiTradeParamConfigViewController.h */,
+				1D1E16B91F4D3D9200BACA6D /* ALiTradeParamConfigViewController.m */,
+				1D1E16BA1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.storyboard */,
+				1D1E16BB1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.h */,
+				1D1E16BC1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.m */,
+				1D1E16BD1F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.storyboard */,
+				1D1E16BE1F4D3D9200BACA6D /* ALiTradeSDKShareParam.h */,
+				1D1E16BF1F4D3D9200BACA6D /* ALiTradeSDKShareParam.m */,
+				1D1E16C01F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.h */,
+				1D1E16C11F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.m */,
+				1D1E16C21F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.storyboard */,
+				1D1E16C31F4D3D9200BACA6D /* ALiTradeTestData.h */,
+				1D1E16C41F4D3D9200BACA6D /* ALiTradeTestData.m */,
+				1D1E16C51F4D3D9200BACA6D /* ALiTradeWebViewController.h */,
+				1D1E16C61F4D3D9200BACA6D /* ALiTradeWebViewController.m */,
+			);
+			path = trade;
+			sourceTree = "<group>";
+		};
+		1D1E16D91F4D3DB800BACA6D /* config */ = {
+			isa = PBXGroup;
+			children = (
+				1DBF61ED1F4EB59000B7C9AF /* yw_1222.jpg */,
+			);
+			path = config;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -110,6 +332,7 @@
 				TargetAttributes = {
 					1D1E16581F4D3B3000BACA6D = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = YL74WAQM4C;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -119,6 +342,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -137,8 +361,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D1E169A1F4D3B4900BACA6D /* AlipaySDK.bundle in Resources */,
+				1D1E169C1F4D3B4900BACA6D /* NBResource.bundle in Resources */,
+				1D1E16CF1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.storyboard in Resources */,
+				1DBF61EE1F4EB59000B7C9AF /* yw_1222.jpg in Resources */,
+				1D1E16D41F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.storyboard in Resources */,
+				1D1E169B1F4D3B4900BACA6D /* ALPLinkPartnerSDK.bundle in Resources */,
+				1D1E16991F4D3B4900BACA6D /* AlibabaAuthSDK.bundle in Resources */,
 				1D1E166C1F4D3B3000BACA6D /* LaunchScreen.storyboard in Resources */,
 				1D1E16691F4D3B3000BACA6D /* Assets.xcassets in Resources */,
+				1D1E16D11F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.storyboard in Resources */,
 				1D1E16671F4D3B3000BACA6D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -150,8 +382,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E3385832309AB72002773E9 /* TradeController.m in Sources */,
 				1D1E16641F4D3B3000BACA6D /* ViewController.m in Sources */,
+				1D1E16D51F4D3D9200BACA6D /* ALiTradeTestData.m in Sources */,
+				1D1E16D01F4D3D9200BACA6D /* ALiTradeSDKCongfigViewController.m in Sources */,
+				1D1E16AF1F4D3D6000BACA6D /* MyAlertView.m in Sources */,
+				1D1E16D31F4D3D9200BACA6D /* ALiTradeServiceAPIViewController.m in Sources */,
+				1D1E16CE1F4D3D9200BACA6D /* ALiTradeParamConfigViewController.m in Sources */,
+				1D1E16D61F4D3D9200BACA6D /* ALiTradeWebViewController.m in Sources */,
 				1D1E16611F4D3B3000BACA6D /* AppDelegate.m in Sources */,
+				1D1E16CD1F4D3D9200BACA6D /* ALiTradeParamConfigTableCell.m in Sources */,
+				1D1E16CB1F4D3D9200BACA6D /* SwitchEnvViewController.m in Sources */,
+				1D1E16D21F4D3D9200BACA6D /* ALiTradeSDKShareParam.m in Sources */,
 				1D1E165E1F4D3B3000BACA6D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -222,6 +464,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"-lstdc++",
+					"-ObjC",
+				);
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -264,6 +510,10 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = (
+					"-lstdc++",
+					"-ObjC",
+				);
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -274,9 +524,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YL74WAQM4C;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/ALiTradeDemo/Frameworks",
+				);
 				INFOPLIST_FILE = ALiTradeDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.alibaba.baichuan.ALiTradeDemo;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lstdc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.aliTradeSDK.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -285,9 +545,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = YL74WAQM4C;
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/ALiTradeDemo/Frameworks",
+				);
 				INFOPLIST_FILE = ALiTradeDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.alibaba.baichuan.ALiTradeDemo;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lstdc++",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.aliTradeSDK.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -311,6 +581,7 @@
 				1D1E16721F4D3B3000BACA6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
